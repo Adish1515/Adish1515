@@ -1,57 +1,66 @@
-<h1 align="center">👋 Hey there, I'm Adish Suryawanshi</h1>
-<h3 align="center">🚀 DevOps & AWS Enthusiast | Cloud Learner | Automation Explorer ☁️</h3>
+# 👋 Hey there, I'm Adish Suryawanshi  
+
+🚀 **DevOps & AWS Enthusiast** | ☁️ **Cloud Learner** | 🤖 **Automation Explorer**
 
 ---
 
-### 👨‍💻 About Me  
+## 🧭 About Me  
+
 I’m an aspiring **DevOps and Cloud Engineer** passionate about building automation pipelines, deploying scalable infrastructure, and exploring AWS services.  
-I enjoy designing CI/CD workflows, experimenting with cloud-native tools, and continuously learning how to bridge the gap between **development and operations**.  
+I enjoy designing **CI/CD workflows**, experimenting with **cloud-native tools**, and collaborating with AI/ML teams to bring automation and intelligence together.  
 
-- 🔭 I’ve worked on **crowd surveillance deployment projects**  
-- ☁️ Hosted my **portfolio website on AWS S3** with automated CI/CD pipelines  
-- 🌱 Currently improving my knowledge of **Terraform, Docker, and Jenkins**  
-- 🎯 Goal: Become an **AWS Certified DevOps Engineer**  
-- ⚡ Motto: *“Automate everything that can be automated.”*
+✨ **Highlights**  
+- 🧠 Completed **Cloud Internship at UptoSkills**, where I deployed a **Crowd Surveillance System** on AWS EC2 in collaboration with an AI/ML team.  
+  ▪️ Worked on **anomaly detection**, **gender classification**, and **chain-snatching detection** modules integrated with AWS infrastructure.  
+- 🌐 Deployed my **portfolio website** on AWS S3 with automated CI/CD pipelines using GitHub Actions and CloudFront.  
+- ⚙️ Currently improving my knowledge of **Terraform**, **Docker**, and **Jenkins**.  
+- ☁️ Completed **Google Cloud Program 2024** 🎓 gaining exposure to cloud fundamentals and hands-on labs.  
+- 🧩 Goal: Become an **AWS Certified DevOps Engineer**.  
+- 💡 Motto: *“Automate everything that can be automated.”*
 
 ---
 
-### 🛠️ Tech Stack  
+## 🧰 Tech Stack  
+
 **Languages:** Java, Python, Bash  
-**Cloud Platform:** AWS (EC2, S3, Lambda, CloudFront, IAM)  
+**Cloud Platforms:** AWS (EC2, S3, Lambda, CloudFront, IAM), Google Cloud  
 **DevOps Tools:** GitHub Actions, Jenkins, Terraform, Docker  
-**Other Tools:** Linux, VS Code, Postman, Git  
+**Others:** Linux, VS Code, Postman, Git  
 
 ---
 
-### 📦 Featured Projects  
+## 🏗️ Featured Projects  
+
 | Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 👁️ **Crowd Surveillance System** | Deployed a real-time surveillance system on AWS for monitoring crowd behavior | AWS EC2, Python, OpenCV |
-| ☁️ **Portfolio Deployment** | Hosted personal portfolio website on AWS S3 with automated CI/CD pipeline | S3, GitHub Actions, CloudFront |
-| 🔄 **CI/CD Pipeline Automation** | Built and tested deployment pipelines integrating GitHub Actions with AWS services | GitHub Actions, AWS CLI |
+|----------|--------------|-------------|
+| 🧠 **Crowd Surveillance System** | Deployed a real-time surveillance system on AWS EC2 for monitoring and analyzing crowd behavior with ML models (Anomaly, Gender, Object Detection). | AWS EC2, Python, OpenCV |
+| 🌐 **Portfolio Deployment** | Hosted personal portfolio website on AWS S3 with automated CI/CD pipeline and CloudFront CDN integration. | AWS S3, GitHub Actions, CloudFront |
+| ⚙️ **CI/CD Pipeline Automation** | Built and tested deployment pipelines integrating GitHub Actions with AWS services. | GitHub Actions, AWS CLI |
 
 ---
 
-### 📊 GitHub Stats  
-https://github-readme-stats.vercel.app/api?username=Adish1515&show_icons=true&theme=tokyonight
-https://github-readme-streak-stats.herokuapp.com/?user=Adish1515&theme=tokyonight
-https://github-readme-activity-graph.vercel.app/graph?username=Adish1515&theme=react-dark
+## 🏆 Achievements  
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="120" alt="Google Cloud Logo"/>
+  <p><b>🎓 Google Cloud Program 2024 Graduate</b> — Completed hands-on labs and foundational training under Google Cloud’s official learning program.</p>
+</div>
 
 ---
 
-### 📈 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adish1515&theme=react-dark" />
-</p>
+## 📊 GitHub Stats  
+
+![Adish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adish1515&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adish1515&theme=tokyonight)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adish1515&theme=react-dark)
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/adish-suryawanshi-55668b219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:adishsuryawanshi200@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Adish1515"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-</p>
+## 🌎 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adish%20Suryawanshi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adish-suryawanshi-55668b219)  
+[![Gmail](https://img.shields.io/badge/Gmail-adishsuryawanshi200@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adishsuryawanshi200@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Adish1515-black?style=for-the-badge&logo=github)](https://github.com/Adish1515)
 
 ---
 
