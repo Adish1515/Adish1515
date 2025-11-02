@@ -33,16 +33,15 @@ I enjoy designing CI/CD workflows, experimenting with cloud-native tools, and co
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adishsuryawanshi&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adishsuryawanshi&theme=tokyonight" height="180em"/>
-</p>
+https://github-readme-stats.vercel.app/api?username=Adish1515&show_icons=true&theme=tokyonight
+https://github-readme-streak-stats.herokuapp.com/?user=Adish1515&theme=tokyonight
+https://github-readme-activity-graph.vercel.app/graph?username=Adish1515&theme=react-dark
 
 ---
 
 ### 📈 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adishsuryawanshi&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adish1515&theme=react-dark" />
 </p>
 
 ---
@@ -51,7 +50,7 @@ I enjoy designing CI/CD workflows, experimenting with cloud-native tools, and co
 <p align="center">
   <a href="https://www.linkedin.com/in/adish-suryawanshi-55668b219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adishsuryawanshi200@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/adishsuryawanshi"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Adish1515"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>
 
 ---
