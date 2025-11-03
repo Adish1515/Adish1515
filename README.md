@@ -43,7 +43,7 @@ I enjoy designing **CI/CD workflows**, experimenting with **cloud-native tools**
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="120" alt="Google Cloud Logo"/>
-  <p><b>🎓 Google Cloud Program 2024 Graduate</b> — Completed hands-on labs and foundational training under Google Cloud’s official learning program.</p>
+  <p><b>🎓 Google Cloud Arcade 2024 Graduate</b> — Completed hands-on labs and foundational training under Google Cloud’s official learning program.</p>
 </div>
 
 ---
